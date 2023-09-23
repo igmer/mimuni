@@ -10,7 +10,7 @@ android {
         applicationId "ar.edu.unlp.semmobile.mimuni"
         minSdk 24
         targetSdk 33
-        versionCode 1501109
+        versionCode 1501114
         versionName "2.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
